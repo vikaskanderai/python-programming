@@ -15,3 +15,6 @@ if num2>0:
 if num3>0:
     out_put.append(num3)
 print("The output list is ",out_put)
+
+
+
